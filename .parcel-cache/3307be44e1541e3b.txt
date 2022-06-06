@@ -1,0 +1,25 @@
+24
+56C:\Users\Administrator\Desktop\xuexi\qianhang\src\images132981310767473543 1
+49C:\Users\Administrator\Desktop\xuexi\qianhang\src132983040720352376 1
+94C:\Users\Administrator\Desktop\xuexi\qianhang\src\images\f505a527bd653772d8d65efebba73537.jpeg132981310238139932 0
+59C:\Users\Administrator\Desktop\xuexi\qianhang\src\style.css132981312805069238 0
+63C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache132986489110199944 1
+57C:\Users\Administrator\Desktop\xuexi\qianhang\src\main.js132986489726643133 0
+54C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist132986489439251519 1
+101C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\f505a527bd653772d8d65efebba73537.964b5689.jpeg132984707317306892 0
+60C:\Users\Administrator\Desktop\xuexi\qianhang\src\index.html132984716921945826 0
+72C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.33f6662a.js132983039079487679 0
+76C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.33f6662a.js.map132983039079507630 0
+72C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\lock.mdb132979542787945141 0
+72C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.7fbff28d.js132986489439081985 0
+76C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.7fbff28d.js.map132986489439151781 0
+73C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.de101254.css132986489439052050 0
+80C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\f7cf725a8c94614c132986489110189972 0
+77C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.de101254.css.map132986489439151781 0
+65C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\index.html132986489439241550 0
+84C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\3307be44e1541e3b.txt132986489110180005 0
+75C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\qianhang.45ee5e70.js132982232655902637 0
+79C:\Users\Administrator\Desktop\xuexi\qianhang\src\dist\qianhang.45ee5e70.js.map132982232655912610 0
+80C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\3bde3ab5ea123ea3132986489110189972 0
+80C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\a437fdc6ede009c5132984707317207161 0
+72C:\Users\Administrator\Desktop\xuexi\qianhang\src\.parcel-cache\data.mdb132986489574927681 0
